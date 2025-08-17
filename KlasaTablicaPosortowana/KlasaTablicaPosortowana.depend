@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1737983663 source:c:\users\marci\onedrive\dokumenty\programowanieiie\klasatablicaposortowana\main.cpp
+	<iostream>
+	<vector>
+	<stdexcept>
+	<algorithm>
+

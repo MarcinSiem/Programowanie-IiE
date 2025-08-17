@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1734281311 source:c:\users\marci\onedrive\dokumenty\pracadomowaklasywstep\main.cpp
+	<iostream>
+	<utility>
+	<stdexcept>
+
+1734465746 source:c:\users\marci\onedrive\dokumenty\programowanieiie\pracadomowaklasywstep\main.cpp
+	<iostream>
+	<utility>
+	<stdexcept>
+
